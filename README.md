@@ -10,8 +10,8 @@ Links to notebooks in collab
 **Project Description**:
 
 * **Code-switching detection** (English-Arabic mix common on social media).
-* Building a **socio-linguistic profiler** to infer speaker’s region, age group, or sentiment.
-* Fine-tune Arabic BERT/MarBERT models or use Whisper for speech input.
+* Building a **socio-linguistic profiler** to infer speaker’s region.
+* Fine-tune Arabic CAMeLBERT model
 
 **Why It Stands Out**:
 
@@ -38,7 +38,6 @@ Build a model that:
 
 * Detects Arabic dialects (Gulf, Egyptian, Levantine, etc.)
 * Detects **code-switching** between English and Arabic
-* Optionally infers speaker metadata (e.g., region, gender, sentiment)
 
 ---
 
@@ -76,15 +75,16 @@ These are freely available and used in prior research:
 
 ### 🧠 Baseline Models
 
-* `MARBERT`, `AraBERT`, or `ARBERT` (via Hugging Face)
-* `langdetect` or `fastText` for basic code-switch detection
-* Token-level classification via BiLSTM or Transformer models
+* Naive-Bayes, SVM, Logistic Regression models
+* Token-level classification via BiLSTM and CNN models
 
+### ⭐ State of the Art Models
+
+* `CAMeBERT` (via Hugging Face)
 ---
 
 ### 🛠 Tools
 
 * Hugging Face Transformers (`AutoModelForSequenceClassification`)
 * CAMeL Tools for morphological features
-* `seqeval` for token classification evaluation
-* `pyarabic`, `farasa`, or `stanza` for preprocessing
+* `stanza` and `nltk` for preprocessing
