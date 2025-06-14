@@ -1,3 +1,4 @@
+# 🇸🇦
 ### **Arabic Dialect + Code-Switching Detection with Socio-Linguistic Profiling**
 
 **Vision 2030 Alignment**: *Digital Transformation, Cultural Identity, AI in Government & Media*
