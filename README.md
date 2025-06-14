@@ -1,5 +1,10 @@
-# 🇸🇦
-### **Arabic Dialect + Code-Switching Detection with Socio-Linguistic Profiling**
+# 🇸🇦 **Arabic Dialect + Code-Switching Detection with Socio-Linguistic Profiling**
+
+Links to notebooks in collab
+1. https://colab.research.google.com/drive/1GYkX0gQwDUnY2lxECQXI685pT1eu7gID?usp=sharing
+2. https://colab.research.google.com/drive/11Dmsw0s8n1zJw3NaoJhMv39jF1ZsA0Gh?usp=sharing
+3. https://colab.research.google.com/drive/1SwselmPfy6B4viQjcHz_IT29PlveRPn1?usp=sharing
+4. https://colab.research.google.com/drive/10Xi2UpzW-zfZo_Vivqrh_RfbuVF2VeEe?usp=sharing
 
 **Vision 2030 Alignment**: *Digital Transformation, Cultural Identity, AI in Government & Media*
 **Project Description**:
