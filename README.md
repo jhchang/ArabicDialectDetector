@@ -86,5 +86,6 @@ These are freely available and used in prior research:
 ### 🛠 Tools
 
 * Hugging Face Transformers (`AutoModelForSequenceClassification`)
+* TensorFlow and PyTorch for model creation, training, and inference
 * CAMeL Tools for morphological features
 * `stanza` and `nltk` for preprocessing
